@@ -14,7 +14,7 @@ $init = new Bom();
 
 
 
-echo "Nomor Target : ";
+echo "Created By Aditya" "Nomor Target : ";
 
 $a = trim(fgets(STDIN));
 
