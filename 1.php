@@ -12,9 +12,9 @@ Created by Aditya Ramdhani
 
 $init = new Bom();
 
-Created By Aditya Ramdhani
 
-echo "Nomor Target : ";
+
+echo "(Call Tokopedia Created|By Aditya Ramdhani) Nomor Target : ";
 
 $a = trim(fgets(STDIN));
 
