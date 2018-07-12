@@ -12,7 +12,7 @@ Created by Aditya Ramdhani
 
 $init = new Bom();
 
-//Eksekusi Call/Sms Boomber (Limit 100x/Jam)
+Created By Aditya Ramdhani
 
 echo "Nomor Target : ";
 
