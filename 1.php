@@ -14,7 +14,7 @@ $init = new Bom();
 
 
 
-echo "(Call Tokopedia Created|By Aditya Ramdhani) Nomor Target : ";
+echo "Nomor Target : ";
 
 $a = trim(fgets(STDIN));
 
