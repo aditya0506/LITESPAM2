@@ -2,7 +2,7 @@
 
 clear
 
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "LiteSpam3"
 
 sleep 1
 
@@ -10,15 +10,15 @@ echo "\033[31;1m Macam-macam tool untuk spam"
 
 sleep 1
 
-echo "\033[33;1m Author: Mr.Rm"
+echo "\033[33;1m Author: Aditya Ramdhani"
 
 sleep 1
 
-echo "\033[32;1m ★contack: +15877711462"
+echo "\033[32;1m ✈contac: 089601377646"
 
 sleep 1
 
-echo "\033[34;1m ★Indonesia Security Lite"
+echo "\033[34;1m ✈Indonesia Cyber Prime"
 
 sleep 1
 
@@ -155,15 +155,15 @@ echo "\033[31;1mNama tools: LiteSpam"
 
 sleep 1
 
-echo "\033[33;1mKarya: Mr.Rm (V2 By Mr.IM81)"
+echo "\033[33;1mKarya: Aditya Ramdhani (V 3)"
 
 sleep 1
 
-echo "\033[32;1mVersi: v2"
+echo "\033[32;1mVersi: v3"
 
 sleep 1
 
-echo "\033[36;1mTeam: ★Indonesia Security Lite★"
+echo "\033[36;1mTeam: ✈Indonesia Cyber Prime✈"
 
 sleep 1
 
@@ -173,7 +173,7 @@ echo "\033[31;1m Spesial Thanks To: "
 
 echo "\033[36;1m"
 
-echo "Handika Pratama"
+
 
 echo "Aditya Ramdhani"
 
@@ -185,13 +185,15 @@ echo "SBG-Team"
 
 echo "Ponorogo Defacer Team"
 
+echo "Rizki Maulana
+
 sleep 1
 
-echo "And All Member Indonesia Security Lite"
+echo "And All Member Indonesia Cyber Prime"
 
-echo "\033[30;1m tunggu 8 detik"
+echo "\033[30;1m tunggu 10 detik"
 
-sleep 8
+sleep 10
 
 sh LITESPAM.sh
 
